@@ -1,0 +1,5 @@
+# Папка logs
+logs/
+
+# фалы txt папки docs
+docs/*.txt 
